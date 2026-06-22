@@ -4,7 +4,7 @@ Je suis un **passionne d'IA**.
 J'aime construire, apprendre et automatiser.
 
 - GitHub est mon laboratoire d'experimentation IA : PRs, prototypes et tests rapides avec une approche serieuse.
-- J'utilise l'IA comme accelrateur de travail, puis je code proprement et je documente ce qui est utile.
+- J'utilise l'IA comme accelerateur de travail, puis je code proprement et je documente ce qui est utile.
 - Je publie egalement des **projets personnels automatisees** : scripts, mini-outils, bots, automatisations CI/CD.
 
 ## Mes statistiques (automatiques)
