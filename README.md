@@ -28,11 +28,17 @@ I care about simple interfaces, readable code, and shipping things that can keep
 
 Build clearly. Keep projects useful. Improve the details.
 
+<!-- Dynamic GitHub statistics cards were intentionally removed because their public APIs can hit rate limits and render broken images. -->
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mirochill&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Mirochill GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirochill&layout=compact&hide_border=true&theme=tokyonight" alt="Mirochill top languages" />
+### Explore my work
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirochill&theme=tokyonight" alt="Mirochill profile details" />
+<a href="https://github.com/Mirochill?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github" alt="Explore Mirochill repositories" />
+</a>
+<a href="https://github.com/Mirochill?tab=stars">
+  <img src="https://img.shields.io/badge/My%20stars-0ea5e9?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Mirochill starred repositories" />
+</a>
 
 </div>
