@@ -1,44 +1,60 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+  <img alt="Mirochill — Building useful things, clearly." src="./assets/profile-header-light.svg" width="100%">
+</picture>
+
 <div align="center">
+  <br>
+  <strong>Developer focused on practical software, clean interfaces, and automation that saves time.</strong>
+  <br><br>
 
-# Mirochill
-
-**Developer focused on practical tools, automation, and clean experiments.**
-
-I build small apps, scripts, bots, and workflow automations that turn ideas into usable projects fast.
-I care about simple interfaces, readable code, and shipping things that can keep improving.
-
-<p>
   <a href="https://github.com/Mirochill?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub projects" />
+    <img src="https://img.shields.io/badge/Projects-Explore-24292f?style=flat-square&logo=github&logoColor=white" alt="Explore Mirochill projects">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Tools%20%7C%20Web%20%7C%20Automation-0ea5e9?style=for-the-badge" alt="Focus: tools, web, automation" />
-  <img src="https://img.shields.io/badge/Style-Clean%20and%20practical-22c55e?style=for-the-badge" alt="Style: clean and practical" />
-</p>
-
+  <img src="https://img.shields.io/badge/Focus-Tools%20%26%20Automation-0284c7?style=flat-square" alt="Focus: tools and automation">
+  <img src="https://img.shields.io/badge/Approach-Simple%20%26%20Useful-059669?style=flat-square" alt="Approach: simple and useful">
 </div>
 
-## What I Build
+<br>
 
-- Practical web apps and lightweight tools
-- Scripts that remove repetitive work
-- Bots, integrations, and small utilities
-- Fast prototypes that can become polished projects
+## About
 
-## Current Mindset
+I build small apps, scripts, bots, and workflow automations that turn ideas into usable projects. The goal is simple: solve a real problem, keep the experience clear, and improve the details that matter.
 
-Build clearly. Keep projects useful. Improve the details.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I build</h3>
+      <ul>
+        <li>Lightweight web tools and practical apps</li>
+        <li>Scripts that remove repetitive work</li>
+        <li>Bots, integrations, and focused utilities</li>
+        <li>Fast prototypes refined into real products</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>How I work</h3>
+      <ul>
+        <li>Start with the real problem</li>
+        <li>Keep interfaces simple and intentional</li>
+        <li>Prefer readable, maintainable code</li>
+        <li>Ship the core, then polish with purpose</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Dynamic GitHub statistics cards were intentionally removed because their public APIs can hit rate limits and render broken images. -->
+> **Build clearly. Keep it useful. Refine what matters.**
+
+<br>
 
 <div align="center">
-
-### Explore my work
-
-<a href="https://github.com/Mirochill?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github" alt="Explore Mirochill repositories" />
-</a>
-<a href="https://github.com/Mirochill?tab=stars">
-  <img src="https://img.shields.io/badge/My%20stars-0ea5e9?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Mirochill starred repositories" />
-</a>
-
+  <strong>Explore the work</strong>
+  <br>
+  <sub>Small tools, practical experiments, and projects in progress.</sub>
+  <br><br>
+  <a href="https://github.com/Mirochill?tab=repositories"><strong>Repositories</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Mirochill?tab=stars"><strong>Stars</strong></a>
 </div>
