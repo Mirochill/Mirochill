@@ -1,62 +1,54 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/miro-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/miro-header-light.svg">
-  <img alt="Mirochill — Ideas, interfaces and AI-powered creation" src="./assets/miro-header-light.svg" width="100%">
+  <img alt="Mirochill — creative direction, interface design and AI-native prototyping" src="./assets/miro-header-light.svg" width="100%">
 </picture>
 
-<div align="center">
-  <strong>Hey, I'm Miro</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving hand" width="20" height="20">
-  <br>
-  <sub>Creative strategist and AI-native maker from France 🇫🇷</sub>
-</div>
+<p align="center">
+  <strong>Hey, I'm Miro 👋 — creative strategist and AI-native maker from France 🇫🇷</strong><br>
+  I turn ambitious ideas into clear products, memorable interfaces, and working prototypes.
+</p>
+
+## From idea to direction
+
+Most of my work starts before the final build: finding the angle that makes a project worth remembering, defining what the experience should communicate, and removing anything that makes it feel generic. AI helps me explore and prototype quickly, but every decision still serves one clear direction.
 
 <table>
   <tr>
-    <td width="40%" valign="top">
-      <h3>✦ Beyond the code</h3>
-      I focus on the <strong>idea</strong>, the <strong>experience</strong>, and the <strong>direction</strong> behind a project — then use AI and modern tools to turn ambitious concepts into working prototypes.
-      <br><br>
-      <em>My role is to make the right idea clearer, stronger, and real.</em>
+    <td width="50%" valign="top">
+      <h3>🧭 Shape the product</h3>
+      <p>I define the concept, the value, and the creative identity so the project feels coherent from its first screen to its smallest detail.</p>
+      <p><strong>Product vision · concept development · experience strategy</strong></p>
     </td>
-    <td width="30%" valign="top">
-      <h3>🧭 What I bring</h3>
-      Product concepts and creative direction<br>
-      Clear, thoughtful UI/UX ideas<br>
-      Fast AI-assisted prototyping<br>
-      A strategic eye for useful ideas
-    </td>
-    <td width="30%" valign="top">
-      <h3>🔭 What I explore</h3>
-      AI-first tools and interactions<br>
-      Creative software interfaces<br>
-      Interactive 3D, games and simulations<br>
-      Experiments driven by curiosity
+    <td width="50%" valign="top">
+      <h3>✦ Make it tangible</h3>
+      <p>I translate that direction into interfaces and prototypes that can be seen, tested, challenged, and improved immediately.</p>
+      <p><strong>UI/UX direction · AI-native prototyping · interactive design</strong></p>
     </td>
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/miro-flow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/miro-flow-light.svg">
-  <img alt="Mirochill creative process: frame, direct, build and refine" src="./assets/miro-flow-light.svg" width="100%">
-</picture>
+## Current playground
 
 <table>
   <tr>
-    <td width="68%" valign="middle">
-      <strong>Imagine → Direct → Ship</strong><br>
-      <sub>Original concepts and interactions · Clear priorities, UX and identity · Prototype, test and improve with AI.</sub>
+    <td width="33%" valign="top">
+      <h3>AI-first products</h3>
+      <p>Tools and workflows that make powerful models feel natural, useful, and easy to understand.</p>
     </td>
-    <td width="32%" align="center" valign="middle">
-      <a href="https://github.com/Mirochill?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore%20my%20projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mirochill projects">
-      </a>
+    <td width="34%" valign="top">
+      <h3>Creative interfaces</h3>
+      <p>Software experiences with a strong visual identity and interactions that feel intentional.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Interactive worlds</h3>
+      <p>3D scenes, games, and simulations built around atmosphere, curiosity, and discovery.</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <strong>✦ Useful before complicated · Original before ordinary · Polished before finished ✦</strong><br>
-  <sub>New ideas rarely begin perfectly. They become interesting through direction.</sub>
+  <a href="https://github.com/Mirochill?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mirochill projects">
+  </a>
 </div>
