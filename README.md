@@ -1,4 +1,4 @@
-<img src="./assets/mirochill-banner-v2.webp" alt="Mirochill — Ideas, made tangible. A clean blue banner with a subtle anime portrait and city silhouettes." width="100%">
+<img src="./assets/mirochill-x-banner.png" alt="Bannière Mirochill : nom crème sur fond violet et portrait anime souriant." width="100%">
 
 <p align="center">
   <strong>Hey, I'm Miro.</strong><br>
