@@ -1,54 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/miro-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/miro-header-light.svg">
-  <img alt="Mirochill — creative direction, interface design and AI-native prototyping" src="./assets/miro-header-light.svg" width="100%">
-</picture>
+<img src="./assets/mirochill-banner.webp" alt="Mirochill — Ideas into experiences. A midnight-blue banner with a sculptural lilac ribbon." width="100%">
 
 <p align="center">
-  <strong>Hey, I'm Miro 👋 — creative strategist and AI-native maker from France 🇫🇷</strong><br>
+  <strong>Hey, I'm Miro — creative strategist &amp; AI-native maker from France.</strong><br>
   I turn ambitious ideas into clear products, memorable interfaces, and working prototypes.
 </p>
 
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#from-idea-to-direction">Creative approach</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Mirochill?tab=repositories">All projects</a>
+</p>
+
+## Selected work
+
+### [Browser Pilot](https://github.com/Mirochill/browser-pilot)
+
+Background Chrome control for ChatGPT, with a self-hosted MCP relay and native browser interactions.
+
+### [Codex Native Selector](https://github.com/Mirochill/codex-native-selector)
+
+A clearer model selector for Codex Desktop, built as a local customization on Windows and macOS.
+
+### [Mini Wallpaper](https://github.com/Mirochill/mini-wallpaper)
+
+A lightweight native Windows app that brings local videos and GIFs to the desktop, with automatic media optimization.
+
+### [MiniSnip](https://github.com/Mirochill/MiniSnip)
+
+A focused Windows screenshot tool that copies captures straight to the clipboard.
+
 ## From idea to direction
 
-Most of my work starts before the final build: finding the angle that makes a project worth remembering, defining what the experience should communicate, and removing anything that makes it feel generic. AI helps me explore and prototype quickly, but every decision still serves one clear direction.
+Most of my work starts before the build: finding the angle, defining what the experience should communicate, and giving the project a coherent identity. AI helps me explore and prototype quickly; each decision still serves a clear creative direction.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 Shape the product</h3>
-      <p>I define the concept, the value, and the creative identity so the project feels coherent from its first screen to its smallest detail.</p>
-      <p><strong>Product vision · concept development · experience strategy</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✦ Make it tangible</h3>
-      <p>I translate that direction into interfaces and prototypes that can be seen, tested, challenged, and improved immediately.</p>
-      <p><strong>UI/UX direction · AI-native prototyping · interactive design</strong></p>
-    </td>
-  </tr>
-</table>
+- **Shape the product** — concept, value, creative identity, and experience strategy.
+- **Make it tangible** — interfaces and working prototypes that can be tested, challenged, and improved.
 
 ## Current playground
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>AI-first products</h3>
-      <p>Tools and workflows that make powerful models feel natural, useful, and easy to understand.</p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>Creative interfaces</h3>
-      <p>Software experiences with a strong visual identity and interactions that feel intentional.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Interactive worlds</h3>
-      <p>3D scenes, games, and simulations built around atmosphere, curiosity, and discovery.</p>
-    </td>
-  </tr>
-</table>
+**AI-first products** that make powerful models feel useful and natural.<br>
+**Creative interfaces** with a strong visual identity and intentional interactions.<br>
+**Interactive worlds** built around atmosphere, curiosity, and discovery.
 
-<div align="center">
-  <a href="https://github.com/Mirochill?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mirochill projects">
-  </a>
-</div>
+---
+
+<p align="center">
+  <sub>Creative direction · interface design · AI-native prototyping</sub><br>
+  <a href="https://github.com/Mirochill?tab=repositories"><strong>Explore the projects</strong></a>
+</p>
