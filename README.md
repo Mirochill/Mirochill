@@ -26,7 +26,3 @@ A good idea deserves a clear identity and an experience that makes sense. I use 
   &nbsp;
   <a href="https://github.com/search?q=author%3AMirochill+is%3Apr+-user%3AMirochill&amp;type=pullrequests"><img src="./assets/button-open-source-contributions.svg?v=2" alt="Open-source contributions" width="237" height="44"></a>
 </p>
-
-<p align="center">
-  <sub>My forks are working copies of other projects used for open-source contributions.</sub>
-</p>
