@@ -22,9 +22,9 @@ A good idea deserves a clear identity and an experience that makes sense. I use 
 ---
 
 <p align="center">
-  <a href="https://github.com/Mirochill?tab=repositories&amp;type=source"><img src="./assets/button-my-projects.svg" alt="My projects" width="176" height="44"></a>
+  <a href="https://github.com/Mirochill?tab=repositories&amp;type=source"><img src="./assets/button-my-projects.svg?v=2" alt="My projects" width="142" height="44"></a>
   &nbsp;
-  <a href="https://github.com/search?q=author%3AMirochill+is%3Apr+-user%3AMirochill&amp;type=pullrequests"><img src="./assets/button-open-source-contributions.svg" alt="Open-source contributions" width="286" height="44"></a>
+  <a href="https://github.com/search?q=author%3AMirochill+is%3Apr+-user%3AMirochill&amp;type=pullrequests"><img src="./assets/button-open-source-contributions.svg?v=2" alt="Open-source contributions" width="237" height="44"></a>
 </p>
 
 <p align="center">
