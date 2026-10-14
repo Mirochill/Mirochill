@@ -22,5 +22,11 @@ A good idea deserves a clear identity and an experience that makes sense. I use 
 ---
 
 <p align="center">
-  <a href="https://github.com/Mirochill?tab=repositories"><strong>Explore my repositories</strong></a>
+  <a href="https://github.com/Mirochill?tab=repositories&amp;type=source"><img src="./assets/button-my-projects.svg" alt="My projects" width="176" height="44"></a>
+  &nbsp;
+  <a href="https://github.com/search?q=author%3AMirochill+is%3Apr+-user%3AMirochill&amp;type=pullrequests"><img src="./assets/button-open-source-contributions.svg" alt="Open-source contributions" width="286" height="44"></a>
+</p>
+
+<p align="center">
+  <sub>My forks are working copies of other projects used for open-source contributions.</sub>
 </p>

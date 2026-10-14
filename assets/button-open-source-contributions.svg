@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="44" viewBox="0 0 286 44" role="img" aria-labelledby="title">
+  <title id="title">Open-source contributions</title>
+  <rect x="0.5" y="0.5" width="285" height="43" rx="9" fill="#241C32" stroke="#9E7BC5"/>
+  <g fill="none" stroke="#DDC8F4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="25" cy="14" r="2.5"/>
+    <circle cx="25" cy="31" r="2.5"/>
+    <circle cx="38" cy="31" r="2.5"/>
+    <path d="M25 16.5v12M38 28.5v-7a6 6 0 0 0-6-6h-1"/>
+    <path d="m34 12.5-3 3 3 3"/>
+  </g>
+  <text x="52" y="27.2" fill="#FFF4E1" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Open-source contributions</text>
+</svg>
